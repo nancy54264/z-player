@@ -2,7 +2,7 @@
 
 
 ## 简介
-> 初学者学习Flutter的练手项目，会有很多比较简陋的地方，欢迎提意见。
+> 一个视频采集以及在线视频播放器。初学者学习Flutter的练手项目，会有很多比较简陋的地方，欢迎提意见。
 
 
 ## TODO
@@ -28,6 +28,14 @@
 ```
 
 ## 截图
+
+
+|<img width="150" src="https://user-images.githubusercontent.com/16064095/68454910-01816180-0235-11ea-95ca-fd0c2e205182.png"/>|<img width="150" src="https://user-images.githubusercontent.com/16064095/68455024-4a391a80-0235-11ea-98ff-5e933a45bf2d.png"/>|<img width="150" src="https://user-images.githubusercontent.com/16064095/68455049-5624dc80-0235-11ea-950e-e087aa3b652f.png">|
+|---|---|---|
+|<img width="150" src="https://user-images.githubusercontent.com/16064095/68455059-5ae99080-0235-11ea-9861-e1f475b528ec.png">|<img width="150" src="https://user-images.githubusercontent.com/16064095/68455065-5fae4480-0235-11ea-952e-7aaa93071d42.png">|
+|<img width="150" src="https://user-images.githubusercontent.com/16064095/68455622-c8e28780-0236-11ea-8438-a2e7c3731340.png">||
+
+
 
 
 ## Release

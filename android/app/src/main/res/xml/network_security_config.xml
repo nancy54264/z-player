@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 默认允许所有网址使用非安全连接 -->
+    <base-config cleartextTrafficPermitted="true" />
+
+    <!--不允许以下网址使用非安全连接-->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">example.com</domain>
+        <domain includeSubdomains="true">cdn.example2.com</domain>
+    </domain-config>
+
+    <debug-overrides>
+        <trust-anchors>
+            <certificates src="user" overridePins="true"/>
+        </trust-anchors>
+    </debug-overrides>
+</network-security-config>

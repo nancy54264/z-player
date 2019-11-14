@@ -50,11 +50,3 @@
 ## Release
 > 只有Android版本的包(使用最新版本的SDK打包的，可能低版本不能用，未做测试).[点击下载](https://github.com/nancy54264/z-player/releases/download/1.0.0/app-arm64-v8a-release.apk)
 
-## Build
-```shell script
-# 
-flutter run --enable-software-rendering 
-
-# build
-flutter build apk --target-platform android-arm,android-arm64 --split-per-abi
-```

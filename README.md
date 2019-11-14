@@ -7,10 +7,13 @@
 
 ## TODO
 
++ [ ] 搜索记录
++ [ ] 倍速播放
 + [ ] 收藏功能
 + [ ] 本地缓存
 + [ ] 界面优化
-+ [ ] 搜索记录
++ [ ] 资源分享
+    + [ ] 从粘贴板添加资源
 
 ## 如何使用
 > 本应用支持网络地址播放(媒体)和Api资源采集(资源)。可以提供实验的地址:
@@ -20,10 +23,17 @@
 + butterfly : https://flutter.github.io/assets-for-api-docs/videos/butterfly.mp4
 + CCTV-1高清 :  http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 
+
 ### 资源采集网示例
 
 + OK资源网 
     + httpsApi: http://cj.okzy.tv/inc/apickm3u8s.php
+
+
+### 视频资源收集项目
+> git上视频源相关项目
+
++ wtv:各种直播源，电视直播网站 (点击前往)[https://github.com/biancangming/wtv]
 
 
 ## 截图
@@ -42,5 +52,9 @@
 
 ## Build
 ```shell script
+# 
+flutter run --enable-software-rendering 
+
+# build
 flutter build apk --target-platform android-arm,android-arm64 --split-per-abi
 ```

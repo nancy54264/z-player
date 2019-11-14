@@ -2,7 +2,8 @@
 
 
 ## 简介
-> 一个视频采集以及在线视频播放器。初学者学习Flutter的练手项目，会有很多比较简陋的地方，欢迎提意见。
+> 一个视频采集以及在线视频播放器。参考 [h-player-v2的electron版本](https://github.com/ZyqGitHub1/h-player-v2)制作
+>初学者学习Flutter的练手项目，会有很多比较简陋的地方，欢迎提意见。
 
 
 ## TODO
@@ -12,8 +13,7 @@
 + [ ] 收藏功能
 + [ ] 本地缓存
 + [ ] 界面优化
-+ [ ] 资源分享
-    + [ ] 从粘贴板添加资源
++ [ ] 分享
 
 ## 如何使用
 > 本应用支持网络地址播放(媒体)和Api资源采集(资源)。可以提供实验的地址:
@@ -33,8 +33,8 @@
 ### 视频资源收集项目
 > git上视频源相关项目
 
-+ wtv:各种直播源，电视直播网站 (点击前往)[https://github.com/biancangming/wtv]
-
++ wtv:各种直播源，电视直播网站 [点击前往](https://github.com/biancangming/wtv)
++ h-player-v2: 资源采集 [点击前往](https://github.com/ZyqGitHub1/h-player-v2)
 
 ## 截图
 

@@ -8,6 +8,7 @@
 
 ## TODO
 
++ [x] 导入导出
 + [ ] 搜索记录
 + [ ] 倍速播放
 + [ ] 收藏功能
@@ -48,7 +49,7 @@
 
 
 ## Release
-> 只有Android版本的包(使用最新版本的SDK打包的，可能低版本不能用，未做测试).[点击下载](https://github.com/nancy54264/z-player/releases/download/1.0.0/app-arm64-v8a-release.apk),为不方便下载的小伙伴提供百度网盘地址[网盘下载:提取码 scd1](https://pan.baidu.com/s/186H3j5i_fvcLNw8gvUWgaA)
+> 只有Android版本的包(使用最新版本的SDK打包的，可能低版本不能用，未做测试).[点击下载](https://github.com/nancy54264/z-player/releases)
 
 
 
